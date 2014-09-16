@@ -8,4 +8,4 @@
 * compiling on a modern platform
 
 ### Caveat Lector
-While my work (the spec file) is APL 2.0, the ginormous patch is a synthesis of many other smaller patches which may feature different licenses. I'm in the process of tracking down all of the disperate patches and making sure that their license terms are clear.
+While my work (the spec file) is Apache License (Version 2.0), the ginormous patch is a synthesis of many other smaller patches which may feature different licenses. I'm in the process of tracking down all of the disperate patches and making sure that their license terms are clear.
